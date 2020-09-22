@@ -31,7 +31,7 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 	<key>WKCompanionAppBundleIdentifier</key>
-	<string>com.example.apple-samplecode.SoupChef${SAMPLE_CODE_DISAMBIGUATOR}</string>
+	<string>io.bitrise.SoupChef</string>
 	<key>WKWatchKitApp</key>
 	<true/>
 </dict>
