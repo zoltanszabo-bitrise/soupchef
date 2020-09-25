@@ -54,8 +54,10 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/Soup Chef">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "292B748520A94C190038A692"
@@ -63,7 +65,7 @@
             BlueprintName = "SoupChefWatch"
             ReferencedContainer = "container:SoupChef.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -71,8 +73,10 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.Carousel"
+         RemotePath = "/Soup Chef">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "292B748520A94C190038A692"
@@ -80,7 +84,16 @@
             BlueprintName = "SoupChefWatch"
             ReferencedContainer = "container:SoupChef.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "292B748520A94C190038A692"
+            BuildableName = "SoupChefWatch.app"
+            BlueprintName = "SoupChefWatch"
+            ReferencedContainer = "container:SoupChef.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
