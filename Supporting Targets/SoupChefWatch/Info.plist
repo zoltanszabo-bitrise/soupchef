@@ -23,7 +23,7 @@
 	<key>NSUserActivityTypes</key>
 	<array>
 		<string>OrderSoupIntent</string>
-		<string>com.example.apple-samplecode.SoupChef.viewMenu</string>
+		<string>io.bitrise.SoupChef.viewMenu</string>
 	</array>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
