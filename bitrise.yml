@@ -37,4 +37,4 @@ app:
     BITRISE_EXPORT_METHOD: development
 meta:
   bitrise.io:
-    machine_type_id: g2.8core
+    machine_type_id: g2.4core
