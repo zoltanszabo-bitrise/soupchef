@@ -3,7 +3,7 @@
 Make it easy for people to use Siri with your app by providing shortcuts to your app’s actions.
 
 ## Overview
-
+asd
 Soup Chef is the fictitious app from this sample code project. The project shows you how to add shortcuts and personalized phrases to Siri. With shortcuts, users can access features of your app from places such as Spotlight search, Lock Screen, and the Siri watch face. With phrases, users can speak to Siri to access your app's features. For example, a user of Soup Chef may order a bowl of clam chowder by saying to Siri, “Order clam chowder.”
 
 ## Get Started
@@ -116,7 +116,7 @@ override func restoreUserActivityState(_ activity: NSUserActivity) {
 [View in Source](x-source-tag://continue_nsua)
 
 ## Add Phrases to Siri
-
+asd
 Ordering soup based on suggestions from Siri is a great start to expediting soup orders, but Soup Chef goes one step further by letting the user set a voice phrase for a particular order, and adding that phrase to Siri. Afterwards, the user can ask Siri to place the order by saying the phrase. For example, the user can add to Siri the phrase, “Clam chowder time,” for the shortcut that orders clam chowder with croutons. The next time the user craves clam chowder, they say to Siri, “Clam chowder time,” and Siri tells Soup Chef to place an order for clam chowder with croutons.
 
 Users can set custom phrases in the Shortcuts app on their iPhone or iPad. To make the experience better, however, Soup Chef provides the option to add the phrase directly from the app. From the order history, the user can tap a previous order to view its details. At the bottom of the order details is an *Add to Siri* button that, when tapped, lets the user set a new phrase. Soup Chef also provides a suggested phrase to help inspire the user.
